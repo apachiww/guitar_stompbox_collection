@@ -1,8 +1,18 @@
 ## Schematics of stompboxes collected online, backup only
 
-**各种收集自网络的电吉他单块效果器电路，也有一些箱头的电路比如5150，和一些元器件数据表，仅作备份目的**
+Schematics of some amp heads like EVH5150 also included. 
 
-网站推荐列表：
+Forums:
+
+[freestompboxes.org](http://freestompboxes.org/) (Recommended)
+
+[guitar-gear.ru](https://guitar-gear.ru/)
+
+[diystompboxes.com](http://www.diystompboxes.com/)
+
+[ssguitar.com](https://ssguitar.com/)
+
+Websites:
 
 [generalguitargadgets.com](http://www.generalguitargadgets.com/)
 
@@ -27,14 +37,3 @@
 [electricdruid.net](https://electricdruid.net/)
 
 [guitarfx.it](http://www.guitarfx.it/)
-
-论坛推荐列表：
-
-[freestompboxes.org](http://freestompboxes.org/) （很大的一个社区，很多电路都有）
-
-[guitar-gear.ru](https://guitar-gear.ru/) （俄国网站）
-
-[diystompboxes.com](http://www.diystompboxes.com/)
-
-[ssguitar.com](https://ssguitar.com/)
-
